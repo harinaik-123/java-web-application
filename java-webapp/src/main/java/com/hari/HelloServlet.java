@@ -21,7 +21,7 @@ public class HelloServlet extends HttpServlet {
         response.getWriter().println(
             "<html>" +
             "<body>" +
-            "<h1>Hello from Java Web Application!</h1>" +
+            "<h1>Hello Harinaik from Java Web Application!</h1>" +
             "<h2>Running on Tomcat 9 + Java 17</h2>" +
             "</body>" +
             "</html>"
